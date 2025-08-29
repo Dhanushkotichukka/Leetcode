@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
