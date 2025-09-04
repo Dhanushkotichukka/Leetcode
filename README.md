@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0326-power-of-three) |
+| [3830-find-closest-person](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
