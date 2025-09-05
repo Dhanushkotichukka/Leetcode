@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
