@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-number-of-changing-keys](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
