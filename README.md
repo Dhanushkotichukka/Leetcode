@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
