@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3312-number-of-changing-keys](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3312-number-of-changing-keys) |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
