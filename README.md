@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1646-kth-missing-positive-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
