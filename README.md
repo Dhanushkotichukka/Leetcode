@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
