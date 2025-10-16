@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0898-transpose-matrix) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1646-kth-missing-positive-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -183,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1642-water-bottles) |
 ## Stack
 |  |
