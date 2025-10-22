@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0326-power-of-three) |
