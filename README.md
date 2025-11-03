@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
