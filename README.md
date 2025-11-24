@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3830-find-closest-person](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
