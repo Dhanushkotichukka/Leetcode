@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3830-find-closest-person](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3830-find-closest-person) |
