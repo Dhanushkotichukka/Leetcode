@@ -5,7 +5,6 @@ class ParkingSystem {
         space[1] = medium;
         space[2] = small;
     }
-    
     public boolean addCar(int carType) {
         if(space[carType-1] > 0){
             space[carType-1]--;
