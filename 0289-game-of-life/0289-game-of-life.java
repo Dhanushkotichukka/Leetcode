@@ -10,7 +10,6 @@ class Solution {
             for(j=0;j<n;j++){
                 c = 0;
                 int val = board[i][j];
-                
                     if(i-1>=0 && j-1>=0 && board[i-1][j-1]==1) c+=1;
                     if(i-1>=0 && j<n && board[i-1][j]  ==1) c+=1;
                     if(i-1>=0 && j+1<n && board[i-1][j+1]==1) c+=1;
