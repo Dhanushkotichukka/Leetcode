@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -267,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
