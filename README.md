@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -232,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
