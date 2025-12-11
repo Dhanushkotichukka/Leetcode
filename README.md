@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0898-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sliding Window
 |  |
