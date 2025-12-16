@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3312-number-of-changing-keys](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
