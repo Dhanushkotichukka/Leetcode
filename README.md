@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1925-count-square-sum-triples) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
