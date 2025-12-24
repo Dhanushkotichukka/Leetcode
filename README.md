@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Brainteaser
