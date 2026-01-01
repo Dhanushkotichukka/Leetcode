@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0136-single-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
