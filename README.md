@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
