@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1603-design-parking-system](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1603-design-parking-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
