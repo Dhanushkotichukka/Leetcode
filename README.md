@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Sorting
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
