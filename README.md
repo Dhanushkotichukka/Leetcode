@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1200-minimum-absolute-difference](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
