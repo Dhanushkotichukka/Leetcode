@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3819-rotate-non-negative-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3819-rotate-non-negative-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Stack
 |  |
 | ------- |
