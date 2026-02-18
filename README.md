@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0561-array-partition) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
