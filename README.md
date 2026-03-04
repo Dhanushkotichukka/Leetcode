@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
