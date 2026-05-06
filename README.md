@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3169-count-days-without-meetings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3169-count-days-without-meetings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sliding Window
 |  |
