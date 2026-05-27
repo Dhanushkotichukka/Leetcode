@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-number-of-changing-keys](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3794-reverse-string-prefix) |
