@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0078-subsets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0289-game-of-life](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
