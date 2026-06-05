@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-find-closest-person](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1025-divisor-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3827-count-monobit-integers) |
 ## String Matching
 |  |
