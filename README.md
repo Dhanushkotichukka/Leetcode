@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Brainteaser
 |  |
