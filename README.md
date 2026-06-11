@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0867-transpose-matrix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3827-count-monobit-integers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3827-count-monobit-integers) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0289-game-of-life](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0867-transpose-matrix) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0885-spiral-matrix-iii) |
