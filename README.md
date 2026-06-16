@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
