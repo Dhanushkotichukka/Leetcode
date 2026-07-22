@@ -1,20 +1,21 @@
 class MyHashSet {
-    public boolean arr[];
+    public boolean array[];
+
     public MyHashSet() {
-        arr = new boolean[100001];
-        Arrays.fill(arr,false);
+        array = new boolean[1000001];
+        Arrays.fill(array,false);
     }
     
     public void add(int key) {
-        arr[key] = true;
+        array[key] = true;
     }
     
     public void remove(int key) {
-        arr[key] = false;
+        array[key] = false;
     }
     
     public boolean contains(int key) {
-        return arr[key];
+        return array[key];
     }
 }
 
