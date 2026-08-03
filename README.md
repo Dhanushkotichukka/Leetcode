@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0292-nim-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0509-fibonacci-number) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0645-set-mismatch) |
