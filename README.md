@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-number-of-changing-keys](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Dhanushkotichukka/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Stack
