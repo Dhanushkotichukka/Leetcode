@@ -503,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0022-generate-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dhanushkotichukka/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
