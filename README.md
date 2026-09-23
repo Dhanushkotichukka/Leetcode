@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1642-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dhanushkotichukka/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dhanushkotichukka/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
